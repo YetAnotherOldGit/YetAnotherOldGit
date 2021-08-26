@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @YetAnotherOldGit
+- 👋 Hi, I’m @YetAnotherOldGit.
 - 👀 I’m interested in software.
 - 🌱 I’m currently learning humility.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me with long arms.
+- 📫 How to reach me? With long arms.
 
 <!---
 YetAnotherOldGit/YetAnotherOldGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
