@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YetAnotherOldGit.
-- 👀 I’m interested in presonal privacy.
+- 👀 I’m interested in personal privacy.
 - 🌱 I’m currently learning humility.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me? With long arms.
